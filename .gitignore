@@ -2,3 +2,4 @@ db.sql
 private_info.txt
 *.log
 !important.log
+backend.py
